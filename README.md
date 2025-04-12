@@ -1,6 +1,6 @@
 # PosturePerfect 
 
-### PosturePerfect is a communication enhancer project designed to provide live feedback during meetings by tracking body posture, hand gestures, and eye contact. 
+### PosturePerfect is a communication enhancer project designed to provide live feedback during meetings by tracking body posture, hand gestures, and eye contact
 
 ## Overview
 
